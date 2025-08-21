@@ -8,7 +8,7 @@ const TaskList = () => {
     >
       <div className="flex-shrink-0 h-full w-[300px] bg-amber-300 rounded-3xl">
         <div className="flex justify-between items-center py-5 px-4 ">
-          <h3 className="text-sm text-shadow-black"> High</h3>
+          <h3 className="text-black bg-red-500 px-2 py-0 rounded-2xl"> High</h3>
           <h4 className="text-shadow-black text-sm">20 Feb 2025</h4>
         </div>
 
@@ -25,7 +25,7 @@ const TaskList = () => {
 
       <div className="flex-shrink-0 h-full w-[300px] bg-amber-300 rounded-3xl">
         <div className="flex justify-between items-center py-5 px-4 ">
-          <h3 className="text-sm text-shadow-black"> High</h3>
+          <h3 className="text-black bg-red-500 px-2 py-0 rounded-2xl"> High</h3>
           <h4 className="text-shadow-black text-sm">20 Feb 2025</h4>
         </div>
 
@@ -42,7 +42,7 @@ const TaskList = () => {
 
       <div className="flex-shrink-0 h-full w-[300px] bg-amber-300 rounded-3xl">
         <div className="flex justify-between items-center py-5 px-4 ">
-          <h3 className="text-sm text-shadow-black"> High</h3>
+          <h3 className="text-black bg-red-500 px-2 py-0 rounded-2xl"> High</h3>
           <h4 className="text-shadow-black text-sm">20 Feb 2025</h4>
         </div>
 
@@ -59,7 +59,7 @@ const TaskList = () => {
 
       <div className="flex-shrink-0 h-full w-[300px] bg-amber-300 rounded-3xl">
         <div className="flex justify-between items-center py-5 px-4 ">
-          <h3 className="text-sm text-shadow-black"> High</h3>
+          <h3 className="text-black bg-red-500 px-2 py-0 rounded-2xl"> High</h3>
           <h4 className="text-shadow-black text-sm">20 Feb 2025</h4>
         </div>
 
@@ -76,7 +76,7 @@ const TaskList = () => {
 
       <div className="flex-shrink-0 h-full w-[300px] bg-amber-300 rounded-3xl">
         <div className="flex justify-between items-center py-5 px-4 ">
-          <h3 className="text-sm text-shadow-black"> High</h3>
+          <h3 className="text-black bg-red-500 px-2 py-0 rounded-2xl"> High</h3>
           <h4 className="text-shadow-black text-sm">20 Feb 2025</h4>
         </div>
 
@@ -93,7 +93,7 @@ const TaskList = () => {
 
       <div className="flex-shrink-0 h-full w-[300px] bg-amber-300 rounded-3xl">
         <div className="flex justify-between items-center py-5 px-4 ">
-          <h3 className="text-sm text-shadow-black"> High</h3>
+          <h3 className="text-black bg-red-500 px-2 py-0 rounded-2xl"> High</h3>
           <h4 className="text-shadow-black text-sm">20 Feb 2025</h4>
         </div>
 
@@ -110,7 +110,7 @@ const TaskList = () => {
 
       <div className="flex-shrink-0 h-full w-[300px] bg-amber-300 rounded-3xl">
         <div className="flex justify-between items-center py-5 px-4 ">
-          <h3 className="text-sm text-shadow-black"> High</h3>
+          <h3 className="text-black bg-red-500 px-2 py-0 rounded-2xl"> High</h3>
           <h4 className="text-shadow-black text-sm">20 Feb 2025</h4>
         </div>
 
